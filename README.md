@@ -16,9 +16,13 @@ This project focuses on optimizing crop rotation in Saskatchewan, Canada, a regi
 - Incorporates various constraints including budget availability, minimum nutrient requirements, and botanical family and adjacency considerations.
 - Models over a 36-month period with a detailed analysis of soil nutrient dynamics.
 
+![image](https://github.com/valnaj/crop-rotation/assets/136912432/24e7d134-6cc0-4937-8adc-ace35ad2cd2f)
+
 ## Results
 - Presents a strategic planting schedule that optimizes profitability while adhering to best agricultural practices.
 - Includes a comprehensive financial breakdown and an assessment of nutrient values for each plot across seasons.
+
+![image](https://github.com/valnaj/crop-rotation/assets/136912432/7adb681c-0059-443f-81b3-0c48a7167923)
 
 ## Extensions and Future Work
 - Introduction of additional cover crops to diversify choices.
